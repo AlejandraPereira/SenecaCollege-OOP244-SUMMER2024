@@ -1,0 +1,13 @@
+Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+Date: 06/14/2024
+
+
+In this workshop, I learned how to design a C++ class with different states (invalid, new, valid) and 
+how to handle state transitions. Additionally, I implemented type conversion operators to convert account 
+objects to bool, int, and double, and unary operators like ~ to check if an account is new. I also learned
+about overloading binary operators (=, +=, -=) to manage allocations and balance adjustments, and used flow 
+operators (<<, >>) to facilitate fund transfers between accounts. For this workshop I also wrote helper 
+functions to perform operations on class instances without altering them.
