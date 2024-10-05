@@ -1,0 +1,15 @@
+/*Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+*/
+
+In Workshop #9: Derived Classes and Resources, I learned important skills about creating 
+and managing classes in C++. This workshop focused on using derived classes to build on 
+existing classes, making it easier to extend and reuse code. I practiced implementing the 
+Rule of Three, which means defining how to copy, assign, and delete objects to handle dynamic 
+memory properly. This rule helps prevent memory leaks and other issues by ensuring that resources 
+are managed correctly. I also learned how to overload operators, which allows me to change how classes 
+behave with common operations like addition or printing. Managing memory correctly is key to avoiding 
+problems like resource leaks and crashes. Overall, this workshop helped me get better at designing classes 
+and managing resources in C++, which will be useful for creating more reliable and efficient code in future projects.
