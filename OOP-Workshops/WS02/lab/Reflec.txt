@@ -1,0 +1,12 @@
+Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+
+In this workshop, I was able to understand and learn how multiple versions of a function with the same name
+but with different parameter lists can be implemented to handle various cases efficiently. This method, known as
+function overloading, allows us to write more flexible and readable code by providing different ways to call a 
+function depending on the parameters passed. I also learned about the importance of using dynamic memory properly, 
+with the new[] keyword we can allocate a contiguous block of memory and by using delete[], we can free the allocated 
+memory once it is no longer needed. Additionally, the use of bool data type in functions to return values of true or
+false, which makes verification easier and conditions are set more clearly.

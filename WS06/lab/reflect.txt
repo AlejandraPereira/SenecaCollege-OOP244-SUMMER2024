@@ -1,0 +1,12 @@
+/*Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+Date: 06/07/2024
+*/
+/*During this workshop, I learned how to effectively manage classes, including defining and creating copy constructors 
+and allocators, as well as implementing mechanisms to prevent unwanted copies in a class. In the process, I faced challenges with memory 
+leaks and access errors early on, especially when implementing the [] operator, where it was important to properly handle array bounds to 
+prevent illegal accesses. I also gained experience in overloading operators such as << and >> to facilitate printing and reading objects 
+using ostream and istream, respectively. Additionally, I applied file input and output techniques using ifstream and ofstream, and using 
+the C++ string class to efficiently handle variable-length data in these operations.*/

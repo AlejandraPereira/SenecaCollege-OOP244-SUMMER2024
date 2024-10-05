@@ -1,0 +1,14 @@
+
+Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+
+During this workshop, I learned how to organize a program into separate modules, compile each module individually, 
+and then link them together to create an executable program. The process involved breaking down the shopping list program 
+into essential components: the main application, file management, shopping list , shoppingRec file, and utility functions. 
+In this setup, the header files (.h) contain the function prototypes and structure definitions, while the implementation files (.cpp) contain 
+the actual code. This organization ensures that the code is more manageable and reusable. Compilation safeguards, using #ifndef, #define, 
+and #endif, prevent errors from multiple inclusions of the same header file by allowing code to proceed only if the name is not defined.
+If the name is already defined, the check fails and the header is not included again. Encapsulating the code within the seneca
+namespace avoids name conflicts. Compiling each module separately and then linking them together teaches effective dependency management.

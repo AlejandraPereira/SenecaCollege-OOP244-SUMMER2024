@@ -1,0 +1,16 @@
+/*Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+Date: 06/07/2024
+*/
+
+In this workshop I learned that the constructor is a special method of a class that is called 
+automatically when an instance of the class is created. Its main purpose is to initialize the members
+of the class and prepare it for use. Constructors can be default, parameterless, or parameterized.
+On the other hand, a destructor is also a special method that is invoked when an object is about to be destroyed, 
+either because it has gone out of scope or because delete has been explicitly called on a pointer pointing to it.
+Destructors are used to free allocated resources, such as memory or files, and ensure proper cleanup of objects. 
+In C++, we define a destructor with the same name as the class, preceded by a tilde (~). For this assignment we
+also learned about that the reference to the current object in C++ is made using the 'this' pointer, which is used 
+within the class's methods to access its own members and functions. 

@@ -1,0 +1,12 @@
+Full Name  : Alejandra Vanessa Pereira Leon
+Student ID#: 139273221
+Email      : avpleon@myseneca.ca
+Section    : NEE
+
+For this workshop, I learned how to make function declarations and how to declare an empty state
+when a value is not valid. Additionally, I practiced formatting styles using width() and alignment
+with control flags to create the necessary spaces for the table to be created correctly. Using format 
+conversions was a bit challenging for me, especially when setting the field width. At first, I was not 
+quite sure of the correct order to write them in to get the desired result. So, I experimented with different 
+ways and orders until I achieved the result I was looking for.
+
